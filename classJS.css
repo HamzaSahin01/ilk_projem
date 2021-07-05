@@ -1,0 +1,22 @@
+
+.city {
+  background-color: rgb(2, 13, 77);
+  color: white;
+  border: 2px solid rgb(245, 13, 13);
+  margin: 20px;
+  padding: 20px;
+}
+ .Ottawa {
+    background-color: rgb(243, 82, 18);
+    color: white;
+    border: 2px solid rgb(245, 13, 13);
+    margin: 20px;
+    padding: 20px;
+  }
+  .New {
+    background-color: rgb(15, 230, 61);
+    color: white;
+    border: 2px solid rgb(245, 13, 13);
+    margin: 20px;
+    padding: 20px;
+  }

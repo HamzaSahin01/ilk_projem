@@ -1,0 +1,13 @@
+
+table, th, td {
+  border: 1px solid black;background-color: tomato;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: right;    
+}
+th {
+    border: 1px solid black;background-color: rgb(243, 11, 154);
+    border-collapse: collapse;
+  }
